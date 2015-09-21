@@ -1,0 +1,21 @@
+
+<catalog>
+      <catalog_item gender="Men's">
+         <item_number>QWZ5671</item_number>
+         <price>39.95</price>
+         <size description="Large">
+            <color_swatch>Red</color_swatch>
+            <color_swatch>Burgundy</color_swatch>
+         </size>
+      </catalog_item>
+      <catalog_item gender="Women's">
+         <item_number>RRX9856</item_number>
+         <price>42.50</price>
+         <size description="Medium">
+            <color_swatch>Red</color_swatch>
+            <color_swatch>Navy</color_swatch>
+            <color_swatch>Burgundy</color_swatch>
+            <color_swatch>Black</color_swatch>
+         </size>
+      </catalog_item>
+</catalog>
